@@ -1,0 +1,9 @@
+.tinted-image {
+  position:relative;
+  background:  linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ),url(https://ng-girls.org/img/sections-background/Hawa_Mehal.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+}
