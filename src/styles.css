@@ -2,9 +2,9 @@
 
 @import "~bootstrap/dist/css/bootstrap.min.css";
 @import url('https://fonts.googleapis.com/css?family=Product+Sans');
-body{
+/* body{
   font-family: Product Sans;
-}
+} */
 .bg-white{
   background: white;
 }

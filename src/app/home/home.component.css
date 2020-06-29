@@ -3,6 +3,12 @@
   font-weight:700
 }
 .sub-heading{
-  width:530px;
+  width: 100%;
   font-weight: 700;
 }
+@media (min-width: 992px) { 
+  .sub-heading{
+    width: 530px;
+    font-weight: 700;
+  }
+ }
